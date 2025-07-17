@@ -20,22 +20,18 @@ Proyek ini bertujuan untuk menganalisis data pelanggan guna mengidentifikasi fak
 
 ---
 
-## 🖼️ Contoh Visualisasi
-
-
-### 📋 Tampilan Awal Data (df.head)
-![Head DataFrame](image/menampilkan%20dari%20suatu%20Data.png)
+### 📋 Tampilan Awal Data (`df.head()`)
+![Head DataFrame](image/Data.png.png)
 
 ---
 
-### ℹ️ Informasi Struktur Data (df.info)
-![Info DataFrame](image/menampilkan%20ringkasan%20struktur%20Ringkasan.png)
+### ℹ️ Informasi Struktur Data (`df.info()`)
+![Info DataFrame](image/Ringkasan.png.png)
 
 ---
 
 ### 🔥 Heatmap Korelasi Antar Variabel
-![Heatmap Korelasi](image/membuat%20dan%20menyimpan%20visualisasi%20heatmap%20dari%20matriks%20Visual.png)
-
+![Heatmap Korelasi](image/Visual.png)
 
 ---
 
