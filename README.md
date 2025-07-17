@@ -22,29 +22,28 @@ Proyek ini bertujuan untuk menganalisis data pelanggan guna mengidentifikasi fak
 
 ## 🖼️ Contoh Visualisasi
 
-### 🔥 Korelasi antar Variabel
-![Heatmap Korelasi](/image/Angeline394/membuat dan menyimpan visualisasi heatmap dari matriks korelasi.png)
+### 🔥 Heatmap Korelasi Antar Variabel
+![Heatmap Korelasi](image/membuat%20dan%20menyimpan%20visualisasi%20heatmap%20dari%20matriks%20korelasi.png)
 
 ---
 
-### 📋 Tampilan Awal Data
-![Head DataFrame](/image/Angeline394/menampilkan dari suatu DataFrame.png)
+### 📋 Tampilan Awal Data (df.head)
+![Head DataFrame](image/menampilkan%20dari%20suatu%20DataFrame.png)
 
 ---
 
-### ℹ️ Informasi Struktur Data
-![Info DataFrame](/image/Angeline394/menampilkan ringkasan struktur DataFrame.png)
+### ℹ️ Informasi Struktur Data (df.info)
+![Info DataFrame](image/menampilkan%20ringkasan%20struktur%20DataFrame.png)
 
 ---
 
-### 📊 Hubungan Tenure dan Churn
-![Tenure vs Churn 1](/image/Angeline394/menganalisis hubungan antara variabel numerik (tenure dan MonthlyCharges) dengan churn pelanggan.png)
+### 📊 Hubungan Tenure & MonthlyCharges dengan Churn
+![Tenure MonthlyCharges 1](image/menganalisis%20hubungan%20antara%20variabel%20numerik%20(tenure%20dan%20MonthlyCharges)%20dengan%20churn%20pelanggan.png)
 
-![Tenure vs Churn 2](/image/Angeline394/menganalisis hubungan antara variabel numerik (tenure dan MonthlyCharges) dengan churn pelanggan ke -2.png)
+![Tenure MonthlyCharges 2](image/menganalisis%20hubungan%20antara%20variabel%20numerik%20(tenure%20dan%20MonthlyCharges)%20dengan%20churn%20pelanggan%20ke%20-2.png)
 
-![Tenure vs Churn 3](/image/Angeline394/menganalisis hubungan antara variabel numerik (tenure dan MonthlyCharges) dengan churn pelanggan ke 3.png)
+![Tenure MonthlyCharges 3](image/menganalisis%20hubungan%20antara%20variabel%20numerik%20(tenure%20dan%20MonthlyCharges)%20dengan%20churn%20pelanggan%20ke%203.png)
 
 ---
 
-> 📁 Catatan: Semua grafik di atas disimpan di dalam folder `/image/Angeline394/` untuk dokumentasi hasil eksplorasi data dan mendukung interpretasi insight.
-
+> 📁 Semua grafik di atas disimpan di folder `/image/` dalam repositori ini.
