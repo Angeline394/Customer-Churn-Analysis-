@@ -1,4 +1,4 @@
-# 📉 Customer Churn Analysis (Jul 9, 2025)
+# 📉 Customer Churn Analysis 
 
 Proyek ini bertujuan untuk menganalisis data pelanggan guna mengidentifikasi faktor-faktor utama yang menyebabkan churn (berhentinya pelanggan). Analisis ini mencakup pembersihan data (data cleaning), analisis eksploratif (EDA), dan visualisasi korelasi antar variabel. Hasil dari proyek ini dapat dimanfaatkan untuk menyusun strategi retensi pelanggan yang lebih efektif.
 
